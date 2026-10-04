@@ -2,7 +2,9 @@
 
 > Official website for **Edward Moll Moving & Relocation Services** — built with React 19, TypeScript, Vite, and Tailwind CSS v4.
 
-🌐 **Live Site:** [https://edwardmoll-frontend-nine.vercel.app](https://edwardmoll-frontend-nine.vercel.app)
+🌐 **Live Site:** [https://edwardmoll-frontend-nine.vercel.app](https://edwardmoll-frontend-nine.vercel.app)  
+🔧 **Backend API:** [https://edwardmoll526.onrender.com](https://edwardmoll526.onrender.com)  
+📖 **Swagger Docs:** [https://edwardmoll526.onrender.com/api](https://edwardmoll526.onrender.com/api)
 
 ---
 
@@ -83,6 +85,23 @@ src/
 
 ---
 
+## 🔐 Admin Portal Access
+
+Access the live Admin Login Portal here:
+
+👉 **[https://edwardmoll-frontend.vercel.app/admin/login](https://edwardmoll-frontend.vercel.app/admin/login)**
+
+### Login Credentials
+
+| Field | Value |
+|---|---|
+| **Email** | `admin@gmail.com` |
+| **Password** | `Admin@1234` |
+
+> After signing in, you will have access to the **Admin Dashboard** where you can manage services, gallery images, blog posts, and contact inquiries.
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -152,7 +171,8 @@ The `vercel.json` is already configured for client-side routing:
 
 ## 🔗 Related
 
-- 🔧 **Backend API:** [edwardmoll-backend](https://github.com/your-username/edwardmoll-backend) — NestJS + Prisma + PostgreSQL
+- 🔧 **Backend API:** [edwardmoll526.onrender.com](https://edwardmoll526.onrender.com) — NestJS + Prisma + PostgreSQL (deployed on Render)
+- 📖 **Swagger Docs:** [edwardmoll526.onrender.com/api](https://edwardmoll526.onrender.com/api)
 
 ---
 
